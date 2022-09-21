@@ -1,0 +1,23 @@
+
+/*todo el texto del remitente*/
+.remitente{
+    text-align: right;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 120%;
+}
+/*todo el texto del destinatario*/
+.destinatario{color: blue;
+font-weight: 900;}
+
+h1 {text-decoration: overline;}
+h2 {text-decoration: underline;}
+
+.a{word-spacing: 30px;}
+
+#wrap {width: 1500px; 
+    border: 1px solid #000000;
+    word-wrap: break-word;}
+
+/*formato vertical*/
+#vertical {writing-mode: vertical-lr;}
